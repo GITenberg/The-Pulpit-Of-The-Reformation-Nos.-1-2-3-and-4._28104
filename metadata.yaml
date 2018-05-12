@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '33142'
     url: http://www.gutenberg.org/2009/agents/33142
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28104#The-Pulpit-Of-The-Reformation-Nos.-1-2-3-and-4.
 gutenberg_issued: '2009-02-16'
 gutenberg_type: Text
 identifiers:

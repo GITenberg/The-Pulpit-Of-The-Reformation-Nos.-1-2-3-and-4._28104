@@ -1,0 +1,41 @@
+_repo: The-Pulpit-Of-The-Reformation-Nos.-1-2-3-and-4._28104
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Latimer, Hugh
+    aliases:
+    - Latymer, Hughe
+    - Latimer, Hugo
+    - Latemer, Hughe
+    deathdate: 1555
+    gutenberg_agent_id: '916'
+    url: http://www.gutenberg.org/2009/agents/916
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Latimer
+  - agent_name: Knox, John
+    deathdate: 1572
+    gutenberg_agent_id: '3121'
+    url: http://www.gutenberg.org/2009/agents/3121
+    wikipedia: http://en.wikipedia.org/wiki/John_Knox
+  - agent_name: Welch, John
+    deathdate: 1622
+    gutenberg_agent_id: '33142'
+    url: http://www.gutenberg.org/2009/agents/33142
+description: ''
+gutenberg_issued: '2009-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28104'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Isaiah XXVI -- Sermons'
+- !lcsh 'Sermons, English'
+- !lcsh 'Judgment Day -- Sermons'
+- !lcc 'BX'
+title: The Pulpit Of The Reformation, Nos. 1, 2, 3 and 4.
+url: http://www.gutenberg.org/ebooks/28104
